@@ -1,0 +1,14 @@
+transformers
+transformers[torch]
+torch
+tensorflow
+requests
+boto3
+onnxruntime
+pandas
+nltk
+datasets 
+onnx 
+onnxruntime 
+onnxruntime-tools
+
